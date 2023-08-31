@@ -4,8 +4,7 @@
 
 Hi, I'm Murali 👋, a 20 year old cybersecurity student in Toronto with a deep passion for technology and cybersecurity. 
 
-
-### 🌱 I’m currently learning
+## 🌱 I’m currently learning
   - Malware Analysis
   - Threat Hunting
   - Web App Attacks
