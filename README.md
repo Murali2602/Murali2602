@@ -2,7 +2,9 @@
 
 #### 🔐 Cybersecurity Enthusiast | 🛡️ Aspiring Incident Responder | 🌐 Open Source Enthusiast
 
-Hi, I'm Murali 👋, a 20 year old cybersecurity student in Toronto with a deep passion for technology and cybersecurity. 
+Hi, I'm Murali 👋, a ybersecurity Professional in Toronto with a passion for technology and cybersecurity. 
+
+Currently focusing on threat detection, SIEM/XDR implementations, and building automation tools for security.
 
 <!--
 ## 🌱 I’m currently learning
