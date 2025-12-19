@@ -2,7 +2,7 @@
 
 #### 🔐 Cybersecurity Enthusiast | 🛡️ Aspiring Incident Responder | 🌐 Open Source Enthusiast
 
-Hi, I'm Murali 👋, a ybersecurity Professional in Toronto with a passion for technology and cybersecurity. 
+Hi, I'm Murali 👋, a Cybersecurity Professional with a passion for technology and cybersecurity. 
 
 Currently focusing on threat detection, SIEM/XDR implementations, and building automation tools for security.
 
